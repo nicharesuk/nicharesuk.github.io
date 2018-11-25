@@ -56,12 +56,18 @@ author:
     - title: GitHub
       url: https://github.com/nicharesuk
       icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/corbin-rogerson-23460aa3/
+      icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
   - title: GitHub
     url: https://github.com/nicharesuk
     icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/corbin-rogerson-23460aa3/
+    icon: fab fa-linkedin
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
