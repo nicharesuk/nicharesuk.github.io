@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, Corbin here.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I really think that gyms should have Dance Dance Revolution Arcade machines in them.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Interests in no particular order:
+
+Bodybuilding, Programming, Investing, Financial Independence, Minimalism, Stoicism, Cooking, Rationality, Irrationality, Self-Help
+
+### Current Bodybuilding goals:
+
+180 lbs bodyweight, 405 lbs Deadlift, 315 lbs Squat, 225 Bench Press, 135 lbs Overhead press
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
